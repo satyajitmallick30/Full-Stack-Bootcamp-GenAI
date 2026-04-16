@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+full_stack_bootcamp_genai.egg-info/PKG-INFO
+full_stack_bootcamp_genai.egg-info/SOURCES.txt
+full_stack_bootcamp_genai.egg-info/dependency_links.txt
+full_stack_bootcamp_genai.egg-info/requires.txt
+full_stack_bootcamp_genai.egg-info/top_level.txt
